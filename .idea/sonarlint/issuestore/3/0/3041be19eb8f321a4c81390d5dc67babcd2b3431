@@ -1,0 +1,9 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¹­¼ÿÿÿÿÿ8ºŞøÂ·1
+»
+java:S6548	"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(†©„…úÿÿÿÿ8ÍŞøÂ·1
+I
+java:S1125'"'Remove the unnecessary boolean literal.(¢úÇ¾ÿÿÿÿÿ8ÖŞøÂ·1
+O
+java:S1128"-Remove this unused import 'android.util.Log'.(Ô¦Ø²øÿÿÿÿ8×îŒÃ·1
